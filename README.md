@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/jonesaaron993/jonesaaron993">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesaaron993&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/jonesaaron993/jonesaaron993">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonesaaron993&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="jonesaaron993's GitHub Stats" />
+<a align="center" href="https://jonesaaron993.github.io">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jonesaaron993&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesaaron993&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
 </a>
  
 <!--
