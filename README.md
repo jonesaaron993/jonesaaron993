@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<a href="https://github.com/jonesaaron993/jonesaaron993">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesaaron993&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/jonesaaron993/jonesaaron993">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonesaaron993&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="jonesaaron993's GitHub Stats" />
+</a>
+ 
 <!--
 **jonesaaron993/jonesaaron993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
