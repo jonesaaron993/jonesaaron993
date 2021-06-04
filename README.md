@@ -2,7 +2,7 @@
 I'm an R&D programmer who mostly works with computer vision and deep learning. Whenever I find free time I like to commit random scripts and projects that I've been working on.
 
 ### Important Note
-I try to keep my code updated along with connections to changing packages and API's, but often due to time constraints that's not always possible. Please keep in mind that not all projects on here are final and are still in development.
+I try to keep my code updated along with connections to changing packages and API's, but often due to time constraints that's not always possible. Please keep in mind that not all projects on here are final and some are still in development.
 
 ## &#x270d; Blog & Writing
 My StackOverflow
