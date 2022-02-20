@@ -18,6 +18,12 @@ I also occasionally write on my [blog](https://aaronsprogrammingblog.com/).
 </p>
 </a>
 
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonesaaron993&theme=github_dark" alt="jonesaaron993" align = "center"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jonesaaron993&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="jonesaaron993" /></p>
+
+<p align="center"> <a href="https://github.com/jonesaaron993"><img src="https://github-profile-trophy.vercel.app/?username=jonesaaron993&margin-w=5&theme=radical" alt="jonesaaron993" /></a> </p>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
