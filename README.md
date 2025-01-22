@@ -9,7 +9,7 @@ My StackOverflow
 
 <a href="https://stackoverflow.com/users/13079914/aaron-jones"><img src="https://stackoverflow.com/users/flair/13079914.png?theme=clean" width="208" height="58" alt="profile for Aaron Jones at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aaron Jones at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-I also occasionally write on my [blog]([https://codeaj.dev/](https://aaronsprogrammingblog.wordpress.com/).
+I also occasionally write on my [blog]([https://aaronsprogrammingblog.wordpress.com/]).
 
 ## &#x1f4c8; GitHub Stats
 <a align="center" href="https://jonesaaron993.github.io">
